@@ -1,0 +1,25 @@
+{
+  "name": "tachyon24-cashfree-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cashfree": "^1.0.1",
+    "cashfree-pg": "^4.2.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0",
+    "pg": "^8.13.1",
+    "razorpay": "^2.9.5"
+  },
+  "description": ""
+}
